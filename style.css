@@ -3,7 +3,7 @@
 }
 
 html {
-  background-image: url("public/images/night-sky-bg.jpg");
+  background-image: url("public/images/background-studio-portrait-backdrops-photo-4k_707519-19494.avif");
   background-size: cover;
   /* or contain, depending on your preference */
   background-repeat: no-repeat;
@@ -32,6 +32,7 @@ header {
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff
 }
+
 
 header h1 {
   font-size: 2.5em;
@@ -85,6 +86,10 @@ main {
 .image-container img:hover {
   transform: scale(1.05);
 }
+p {
+  text-align: center;
+}
+
 
 .links {
   margin-top: 20px;
@@ -93,6 +98,7 @@ main {
 .links h2 {
   text-align: center;
 }
+
 
 .links ul {
   list-style-type: none;
